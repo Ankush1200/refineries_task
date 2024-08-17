@@ -1,16 +1,35 @@
-# gov_data
+# Refineries
 
-A new Flutter project.
+# Overview
+Refineries is a simple application designed to demonstrate how routing can be performed between pages using the go_router package. It also showcases how app states are managed with the flutter_riverpod state management library.
 
-## Getting Started
+## Technology Used
+  - **Routing** go_router
+  - **State Management** flutter_riverpod
+  - **Flutter** 
+  - **Dart** 
 
-This project is a starting point for a Flutter application.
+## Screenshots
+<div style=align-items: center;>
+  <img width=200px height=450px src="screenshots/1.jpg">
+  <img width=200px height=450px src="screenshots/2.jpg">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Ankush1200/refineries_task.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+3. **Run the app**
+   ```bash
+   flutter run
+
+## Contribution
+Contributions are welcome! Please fork this repository and submit a pull request for any feature enhancements or bug fixes.
+
+## Contact
+  - **GitHub**: https://github.com/Ankush1200.
