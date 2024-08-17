@@ -4,8 +4,8 @@
 Refineries is a simple application designed to demonstrate how routing can be performed between pages using the go_router package. It also showcases how app states are managed with the flutter_riverpod state management library.
 
 ## Technology Used
-  - **Routing** go_router
-  - **State Management** flutter_riverpod
+  - **Routing ->** go_router
+  - **State Management ->** flutter_riverpod
   - **Flutter** 
   - **Dart** 
 
